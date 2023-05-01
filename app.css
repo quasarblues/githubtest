@@ -1,5 +1,6 @@
 body {
     display: grid;
     content: center;
-    background-color: lightcoral;
+    background-color: blue;
+    color: antiquewhite;
 }
